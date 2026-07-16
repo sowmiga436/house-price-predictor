@@ -1,6 +1,7 @@
 # 🏠 House Price Predictor
 
 A machine learning web app that predicts house prices based on property features like area, bedrooms, bathrooms, age, distance from city, and locality demand.
+🔗 **Live App:** https://house-price-predictor-ayaimvckwpnqjgbtytfh7s.streamlit.app/
 
 ## Tech Stack
 - Python, scikit-learn (Random Forest Regression)
